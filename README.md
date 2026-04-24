@@ -30,7 +30,3 @@ https://yl-li-zzz.github.io/json-pro/
 双击 `index.html` 即可使用
 
 ---
-
-## 📄 协议
-
-MIT License © 2024 yanlong_li
